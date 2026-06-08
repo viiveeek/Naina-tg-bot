@@ -1,0 +1,48 @@
+{
+  "payment_mode": "manual",
+  "payment_note": "Premium Access",
+  "plans": {
+    "basic": {
+      "name": "Basic",
+      "price": "49",
+      "duration_days": 7,
+      "redirect_url": "https://redirect-beta-lemon.vercel.app/BHARATPE2J0U0Z1Z5J72815/unitype/49"
+    },
+    "standard": {
+      "name": "Standard",
+      "price": "79",
+      "duration_days": 30,
+      "redirect_url": "https://redirect-beta-lemon.vercel.app/BHARATPE2J0U0Z1Z5J72815/unitype/79"
+    },
+    "premium": {
+      "name": "Premium",
+      "price": "99",
+      "duration_days": 60,
+      "redirect_url": "https://redirect-beta-lemon.vercel.app/BHARATPE2J0U0Z1Z5J72815/unitype/99"
+    },
+    "vip": {
+      "name": "VIP",
+      "price": "149",
+      "duration_days": 0,
+      "redirect_url": "https://redirect-beta-lemon.vercel.app/BHARATPE2J0U0Z1Z5J72815/unitype/149"
+    }
+  },
+  "upi_id": "BHARATPE2J0U0Z1Z5J72815@unitype",
+  "merchant_mid": "",
+  "demo_link": "https://t.me/+Fkrod1R9TJcxMjE1",
+  "proof_link": "https://t.me/+qrgJOFzPa-ZmMzBl",
+  "target_channel_id": "-1003690644512",
+  "start_image": "https://ibb.co/KxzbFxz8",
+  "start_text": "<b>Premium Access Plans</b>\n\nBasic: Rs 49 - 7 day\nStandard: Rs 79 - 30 day\nPremium: Rs 99 - 60 day\nVIP: Rs 149 - Lifetime\n\nChoose a plan below to continue.",
+  "payment_text": "<b>Complete Your Payment</b>\n\nClick the Pay button for your selected plan. After payment, tap VERIFY PAYMENT and send your screenshot or UTR number.",
+  "extra_channels": [],
+  "button_texts": {
+    "demo": "CHECK DEMO",
+    "proofs": "CHECK PROOFS",
+    "join_channel": "JOIN CHANNEL",
+    "premium": "BUY NOW",
+    "verify_payment": "VERIFY PAYMENT",
+    "back": "BACK",
+    "private_link": "GET PRIVATE LINK"
+  }
+}
