@@ -128,7 +128,7 @@ DEFAULT_SETTINGS: dict[str, Any] = {
             "redirect_url": "https://redirect-1-tau.vercel.app/149",
         },
     },
-    "upi_id": "BHARATPE2J0U0Z1Z5J72815@unitype",
+    "upi_id": "rishab777@fam",
     "merchant_mid": "",
     "demo_link": "",
     "proof_link": "",
@@ -853,7 +853,7 @@ def admin_help_text() -> str:
         "<code>!mode auto</code> - merchant detect payment mode on karta hai\n"
         "<code>!setnote Premium Access</code> - payment note/remark set karta hai\n"
         "<code>!setplanlink basic https://...</code> - plan ka redirect link set karta hai\n"
-        "<code>!setupi xlgr@ptyes</code> - UPI ID set karta hai\n"
+        "<code>!setupi rishab777@fam</code> - UPI ID set karta hai\n"
         "<code>!setmid YOUR_MID</code> - merchant MID set karta hai, auto mode ke liye zaroori\n\n"
         "<b>Channel And Links</b>\n"
         "<code>!settarget -100...</code> - private channel/group ID set karta hai jahan se invite link banega\n"
@@ -880,7 +880,7 @@ def admin_help_text() -> str:
         "5. Successful payment par link automatically mil jayega\n\n"
         "<b>UPI QR Format</b>\n"
         "Manual mode me QR is type ke UPI link se banta hai:\n"
-        "<code>upi://pay?pa=BHARATPE2J0U0Z1Z5J72815@unitype&pn=Payment&am=49&cu=INR</code>\n\n"
+        "<code>upi://pay?pa=rishab777@fam&pn=Payment&am=49&cu=INR</code>\n\n"
         "<b>Note</b>\n"
         "Approve/Reject button sirf admin ke liye kaam karega. Normal user settings change nahi kar sakta."
     )
