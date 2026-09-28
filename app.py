@@ -128,7 +128,7 @@ DEFAULT_SETTINGS: dict[str, Any] = {
             "redirect_url": "https://redirect-1-tau.vercel.app/149",
         },
     },
-    "upi_id": "rishab777@fam",
+    "upi_id": "paytm.s3h7m48@pty",
     "merchant_mid": "",
     "demo_link": "",
     "proof_link": "",
@@ -853,7 +853,7 @@ def admin_help_text() -> str:
         "<code>!mode auto</code> - merchant detect payment mode on karta hai\n"
         "<code>!setnote Premium Access</code> - payment note/remark set karta hai\n"
         "<code>!setplanlink basic https://...</code> - plan ka redirect link set karta hai\n"
-        "<code>!setupi rishab777@fam</code> - UPI ID set karta hai\n"
+        "<code>!setupi paytm.s3h7m48@pty</code> - UPI ID set karta hai\n"
         "<code>!setmid YOUR_MID</code> - merchant MID set karta hai, auto mode ke liye zaroori\n\n"
         "<b>Channel And Links</b>\n"
         "<code>!settarget -100...</code> - private channel/group ID set karta hai jahan se invite link banega\n"
