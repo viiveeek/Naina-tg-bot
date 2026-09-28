@@ -6,28 +6,28 @@
       "name": "Basic",
       "price": "49",
       "duration_days": 7,
-      "redirect_url": "https://redirect-beta-lemon.vercel.app/BHARATPE2J0U0Z1Z5J72815/unitype/49"
+      "redirect_url": "https://redirect-beta-lemon.vercel.app/paytm.s3h7m48/pty/49"
     },
     "standard": {
       "name": "Standard",
       "price": "79",
       "duration_days": 30,
-      "redirect_url": "https://redirect-beta-lemon.vercel.app/BHARATPE2J0U0Z1Z5J72815/unitype/79"
+      "redirect_url": "https://redirect-beta-lemon.vercel.app/paytm.s3h7m48/pty/79"
     },
     "premium": {
       "name": "Premium",
       "price": "99",
       "duration_days": 60,
-      "redirect_url": "https://redirect-beta-lemon.vercel.app/BHARATPE2J0U0Z1Z5J72815/unitype/99"
+      "redirect_url": "https://redirect-beta-lemon.vercel.app/paytm.s3h7m48/pyt/99"
     },
     "vip": {
       "name": "VIP",
       "price": "149",
       "duration_days": 0,
-      "redirect_url": "https://redirect-beta-lemon.vercel.app/BHARATPE2J0U0Z1Z5J72815/unitype/149"
+      "redirect_url": "https://redirect-beta-lemon.vercel.app/paytm.s3h7m48/pty/149"
     }
   },
-  "upi_id": "BHARATPE2J0U0Z1Z5J72815@unitype",
+  "upi_id": "paytm.s3h7m48@pty",
   "merchant_mid": "",
   "demo_link": "https://t.me/+Fkrod1R9TJcxMjE1",
   "proof_link": "https://t.me/+qrgJOFzPa-ZmMzBl",
